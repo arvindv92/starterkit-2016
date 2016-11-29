@@ -1,0 +1,2 @@
+To Make a git reposiory run:
+git init some_foler
