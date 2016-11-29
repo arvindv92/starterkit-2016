@@ -1,2 +1,7 @@
 To Make a git reposiory run:
-git init some_foler
+git init somefoler
+
+To add a new file and commit it to the repository:
+
+git add filename
+git commit -m "some awesome message" 
