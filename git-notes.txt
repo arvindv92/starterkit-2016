@@ -5,3 +5,6 @@ To add a new file and commit it to the repository:
 
 git add filename
 git commit -m "some awesome message" 
+
+To send the data somewhere safe
+git push
